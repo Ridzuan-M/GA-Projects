@@ -258,4 +258,4 @@ With the Audio classifier Application deployed, the targeted group can now be ab
 ---
 #### Streamlit app
 
-[(Streamlit App)](https://huggingface.co/spaces/Ridzuan/Audio_Emotion_Classifier)
+[(Streamlit App)](https://huggingface.co/spaces/Ridzuan/Emotion_Audio_Classifier)
